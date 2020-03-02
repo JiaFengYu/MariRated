@@ -1,0 +1,81 @@
+body{
+  background-color: #08389c;
+}
+
+h1{
+  text-align: center;
+  font-family: Consolas;
+  color:white;
+}
+h3{
+  text-align: center;
+  font-family: Consolas;
+  color:white;
+}
+h4{
+  text-align: center;
+  font-family: Consolas;
+  color:white;
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: none;
+}
+a:link{
+  text-decoration: none;
+}
+.button{
+  border-radius: 12px;
+  transition-duration: 0.4s;
+  margin:auto;
+  display: block;
+  padding: 10px 20px;
+  border: none;
+  background-color: white;
+  box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+}
+.button1:hover{
+  background-color:#aef2c2;
+  color:white;
+  border-style: outset;
+  box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+}
+.button2:hover{
+  background-color:#9430ad;
+  color:white;
+  border-style: outset;
+  box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+}
+.button3:hover{
+  background-color:#ce2140;
+    color:white;
+    border-style: outset;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+}
+.button4:hover{
+  background-color:#d8ce15;
+    color:white;
+    border-style: outset;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+}
+.button5:hover{
+  color:white;
+  background-color:#e246cd;
+  border-style: outset;
+  box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+}
+.button6:hover{
+  color:white;
+  background-color:orange;
+  border-style: outset;
+  box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+}
+.button7:hover{
+  background-color:#CCCCFF;
+  color:white;
+  border-color: white;
+  border-style: outset;
+  box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+}
