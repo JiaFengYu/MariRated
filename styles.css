@@ -37,43 +37,43 @@ a:link{
   box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
 }
 .button1:hover{
-  background-color:#aef2c2;
+  background-color:lightblue;
   color:white;
   border-style: outset;
   box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
 }
 .button2:hover{
-  background-color:#9430ad;
+  background-color:lightblue;
   color:white;
   border-style: outset;
   box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
 }
 .button3:hover{
-  background-color:#ce2140;
+  background-color:lightblue;
     color:white;
     border-style: outset;
     box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
 }
 .button4:hover{
-  background-color:#d8ce15;
+  background-color:lightblue;
     color:white;
     border-style: outset;
     box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
 }
 .button5:hover{
   color:white;
-  background-color:#e246cd;
+  background-color:lightblue;
   border-style: outset;
   box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
 }
 .button6:hover{
   color:white;
-  background-color:orange;
+  background-color:lightblue;
   border-style: outset;
   box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
 }
 .button7:hover{
-  background-color:#CCCCFF;
+  background-color:lightblue;
   color:white;
   border-color: white;
   border-style: outset;
